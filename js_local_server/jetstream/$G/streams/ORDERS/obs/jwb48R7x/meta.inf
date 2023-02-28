@@ -1,0 +1,1 @@
+{"Created":"2023-02-28T05:19:30.65507Z","Name":"jwb48R7x","name":"jwb48R7x","deliver_policy":"all","ack_policy":"explicit","ack_wait":30000000000,"max_deliver":-1,"filter_subject":"ORDERS.*","replay_policy":"instant","max_ack_pending":1000,"deliver_subject":"_INBOX.NSPzTKLZMFE4HRggWOmnQ7","num_replicas":0}
